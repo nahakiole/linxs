@@ -1,0 +1,14 @@
+a.css-4rbku5.css-18t94o4.css-1dbjc4n.r-1loqt21.r-1ny4l3l.r-1udh08x.r-o7ynqc.r-6416eg.r-13qz1uu:after {
+    content: attr(aria-label);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: .8em;
+    font-family: "TwitterChirp", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background: #000000bd;
+    width: 100%;
+    color: #fff;
+    box-sizing: border-box;
+    font-size: 1em;
+    right: 0
+}
