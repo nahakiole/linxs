@@ -21,7 +21,7 @@ This is a Chrome extension that adds titles again to Twitter.
 make build
 ```
 
-4. To install the project, drag the .zip file into the  [extensions view in Google Chrome](chrome://extensions/)
+4. To install the project, drag the .zip file into the  extensions view in Google Chrome (chrome://extensions/)
 
 5. Open Twitter in Google Chrome. You should see the custom CSS applied.
 
