@@ -1,2 +1,2 @@
 build:
-	zip -r extension.zip .
+	zip -r extension.zip manifest.json styles
