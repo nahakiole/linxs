@@ -3,7 +3,6 @@
   "name": "X/Twitter Title Enabler",
   "version": "1.0",
   "description": "A Chrome extension that adds Titles to Links again to Twitter/X",
-  "permissions": ["activeTab", "https://twitter.com/*"],
   "content_scripts": [
     {
       "matches": ["https://twitter.com/*"],
