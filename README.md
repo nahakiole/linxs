@@ -3,7 +3,9 @@
 ![](screenshot.png)
 
 
-This is a Chrome extension that adds titles again to Twitter. 
+This is a Chrome extension that adds titles again to Twitter.
+
+[Chrome Web Store Link](https://chrome.google.com/webstore/detail/xtwitter-title-enabler/abgebpgocjbnbkojoieeeeejggdalfal?hl=de&authuser=0)
 
 ## Prerequisites
 
